@@ -1,11 +1,13 @@
-# react-simple-loading
+# React Simple Loading
 
-A simple React component to display while you're fetching data or waiting for something to load. This component consists of 2 divs: an inner, which is the spinner, and an outer, which is the container. The outer has its height and width set to 100% and uses flexbox to display the spinner perfectly in the center of its parent container.
+A simple React component to display while you're fetching data or waiting for something to load. 
+
+This component consists of 2 divs: an inner, which is the spinning part, and an outer, which is the container. The outer has its height and width set to 100% and uses flexbox to display the spinner perfectly in the center of its parent container.
 
 ## Installation
 
 ```
-npm i --save react-simple-loading
+npm i -S react-simple-loading
 
 ```
 
